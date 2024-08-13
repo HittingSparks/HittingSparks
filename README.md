@@ -1,0 +1,6 @@
+- 👋 Hi, I’m HittingSparks, a brazilian middle schooler
+- 👀 I’m interested in modding consoles, like the 3DS and the Switch
+- 🌱 I’m currently learning nothing, although I want to learn blender, but I'm too lazy
+- ⚡ Fun fact: you read this until the end. Why?
+-
+- I created this just so I have something here on my profile
