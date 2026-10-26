@@ -4,4 +4,4 @@
 - ⚡ Fun fact: you read this until the end. Why?
 -
 - I created this just so I have something here on my profile
-- Edit 1 year later: This is still true, almost nothing changed
+- tbh this profile is just for bug reporting for different projects I use, with some other stuff in it
