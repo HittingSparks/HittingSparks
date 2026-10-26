@@ -2,6 +2,8 @@
 - 👀 I’m interested in modding consoles, like the 3DS and the Switch
 - 🌱 I’m currently learning nothing, although I want to learn blender, programming in general, or something, but I'm too lazy
 - ⚡ Fun fact: you read this until the end. Why?
--
+
 - I created this just so I have something here on my profile
 - tbh this profile is just for bug reporting for different projects I use, with some other stuff in it
+
+- Changelog 2 years later: uhh idk bro
